@@ -44,7 +44,7 @@ st.title("⭐ Indirekte Reziprozität: Reputation statt Gedächtnis")
 st.markdown(
     """
 Bisher kannten sich die Partner und trafen sich wieder. In einem Markt mit **wechselnden Partnern** (Frachtbörse, Subunternehmer) ist das anders: Ich helfe jemandem,
-der mir nie helfen wird, und erwarte, dass ein Dritter mir hilft, weil er sieht, dass ich geholfen habe. Das trägt nur, wenn es eine **Reputation** gibt (gut oder
+der mir nie helfen wird, und erwarte, dass ein Dritter mir hilft, weil er sieht, dass ich geholfen habe. Das gelingt nur, wenn es eine **Reputation** gibt (gut oder
 schlecht) und eine **Regel, wer als gut gilt**. Welche Regel hält Kooperation zusammen? Die Antwort überrascht: die naheliegende (wer hilft, ist gut) zerstört sich
 selbst, sobald Fehler passieren.
 
@@ -228,7 +228,7 @@ $g_s = (1 - e_2)\,Q_s + e_2\,(1 - Q_s)$. Wegen $g = \sum_s x_s g_s$ und der Line
 
 **Stabilität.** Die reine Diskriminierer-Population ist gegen $s$ stabil, wenn $f_s - f_{\mathrm{DISC}} < 0$ bei seltenem $s$. **Dynamik:** $\dot x_s = x_s\,(f_s - \bar f)$.
 
-**Literatur.** Nowak und Sigmund (1998), *Evolution of indirect reciprocity by image scoring*, Nature 393, 573–577 (Image Scoring); Leimar und Hammerstein (2001), *Evolution of cooperation through indirect reciprocity*, Proceedings of the Royal Society B 268, 745–753 (Zweifel an der Stabilität von Image Scoring); Panchanathan und Boyd (2003), *A tale of two defectors: the importance of standing for evolution of indirect reciprocity*, Journal of Theoretical Biology 224, 115–126 (mit Fehlern trägt Image Scoring nicht, Standing schon); Ohtsuki und Iwasa (2004), *How should we define goodness? Reputation dynamics in indirect reciprocity*, Journal of Theoretical Biology 231, 107–120 (die „Leading Eight“); Pacheco, Santos und Chalub (2006), *Stern-judging: a simple, successful norm which promotes cooperation under indirect reciprocity*, PLoS Computational Biology 2, e178. Nur Zusammenfassungen gelesen. Die Zahlen sind hier gerechnet und gegen eine agentenbasierte Simulation geprüft.
+**Literatur.** Nowak und Sigmund (1998), *Evolution of indirect reciprocity by image scoring*, Nature 393, 573–577 (Image Scoring); Leimar und Hammerstein (2001), *Evolution of cooperation through indirect reciprocity*, Proceedings of the Royal Society B 268, 745–753 (Zweifel an der Stabilität von Image Scoring); Panchanathan und Boyd (2003), *A tale of two defectors: the importance of standing for evolution of indirect reciprocity*, Journal of Theoretical Biology 224, 115–126 (mit Fehlern hält Image Scoring nicht stand, Standing schon); Ohtsuki und Iwasa (2004), *How should we define goodness? Reputation dynamics in indirect reciprocity*, Journal of Theoretical Biology 231, 107–120 (die „Leading Eight“); Pacheco, Santos und Chalub (2006), *Stern-judging: a simple, successful norm which promotes cooperation under indirect reciprocity*, PLoS Computational Biology 2, e178. Nur Zusammenfassungen gelesen. Die Zahlen sind hier gerechnet und gegen eine agentenbasierte Simulation geprüft.
         """
     )
 

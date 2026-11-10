@@ -4,7 +4,7 @@
 
 Achtes Stück der **Wiederholte-Spiele-Linie** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Nachfolger von [replikator-demo](https://sebastianhanisch-replikator-demo.streamlit.app/) und [tit-for-tat-demo](https://sebastianhanisch-tit-for-tat-demo.streamlit.app/): dort
-trafen sich dieselben Partner wieder, hier **wechseln die Partner**, und Kooperation trägt nur über eine öffentliche **Reputation**. Die Kante ist ein `fix`: direkte Reziprozität
+trafen sich dieselben Partner wieder, hier **wechseln die Partner**, und Kooperation gelingt nur über eine öffentliche **Reputation**. Die Kante ist ein `fix`: direkte Reziprozität
 braucht Wiederbegegnung, die indirekte nicht.
 
 Vehikel: Spediteure und Subunternehmer auf einer Frachtbörse; jede Woche trifft jeder einen zufälligen anderen und kann ihm helfen (Kosten 1, Nutzen b). Eigennutz und Imitation sind
@@ -12,7 +12,7 @@ Modellannahmen.
 
 ## Warum dieses Problem
 
-Wer einem Fremden hilft, der nie zurückhilft, braucht einen Dritten, der das sieht und danach hilft. Das trägt nur, wenn es eine Regel gibt, **wer als gut gilt**. Die naheliegende
+Wer einem Fremden hilft, der nie zurückhilft, braucht einen Dritten, der das sieht und danach hilft. Das gelingt nur, wenn es eine Regel gibt, **wer als gut gilt**. Die naheliegende
 Regel (wer hilft, ist gut) zerstört sich selbst, sobald Fehler passieren. Die Demo rechnet das exakt in einer großen Population und zeigt, welche Regeln stabil sind.
 
 ## Modell
