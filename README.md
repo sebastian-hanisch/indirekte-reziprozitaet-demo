@@ -1,7 +1,6 @@
 # Indirekte Reziprozität: Reputation statt Gedächtnis – Streamlit-Demo
 
-<!-- Nach dem Deploy direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-indirekte-reziprozitaet-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-indirekte-reziprozitaet-demo.streamlit.app/)**
 
 Achtes Stück der **Wiederholte-Spiele-Linie** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“.
 Nachfolger von [replikator-demo](https://sebastianhanisch-replikator-demo.streamlit.app/) und [tit-for-tat-demo](https://sebastianhanisch-tit-for-tat-demo.streamlit.app/): dort
